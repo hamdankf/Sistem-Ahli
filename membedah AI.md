@@ -19,5 +19,7 @@ Pada MYCIN, inference engine memanfaatkan algoritma seperti:
 # Knowlegde Base
 Basis pengetahuan MYCIN terdiri dari aturan-aturan yang dinyatakan dalam bentuk pengetahuan deklaratif. Pada intinya, basis pengetahuan MYCIN mencakup informasi tentang gejala, tes diagnostik, dan pengobatan yang berkaitan dengan infeksi bakteri.
 # Overall System
-* Flowchart System : ![image](https://github.com/hamdankf/Sistem-Ahli/assets/149086558/d54ed4ea-2a25-4251-929b-aa0e306937e4)
+* Flowchart System :
+
+  ![image](https://github.com/hamdankf/Sistem-Ahli/assets/149086558/d54ed4ea-2a25-4251-929b-aa0e306937e4)
 # Conclusion
