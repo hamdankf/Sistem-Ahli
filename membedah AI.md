@@ -8,6 +8,7 @@ MYCIN menggunakan antarmuka pengguna untuk memfasilitasi konsultasi interaktif d
  1. Kuesioner atau Input Manual
  2. Pengumpulan Data Otomatis
 * Ilustrasi UI :
+  
   ![image](https://github.com/hamdankf/Sistem-Ahli/assets/149086558/d572ffb1-7fe3-43cd-9125-7c3b3e052889)
   ![image](https://github.com/hamdankf/Sistem-Ahli/assets/149086558/6de76ea4-7205-46d2-ac67-263f784482df)
 # Inference Engine
