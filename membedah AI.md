@@ -23,3 +23,6 @@ Basis pengetahuan MYCIN terdiri dari aturan-aturan yang dinyatakan dalam bentuk 
 
   ![image](https://github.com/hamdankf/Sistem-Ahli/assets/149086558/d54ed4ea-2a25-4251-929b-aa0e306937e4)
 # Conclusion
+Secara keseluruhan, MYCIN Expert System merupakan pionir dalam pengembangan sistem pakar berbasis kecerdasan buatan di tahun 1970-an, dengan fokus pada diagnosis dan perawatan infeksi bakteri, terutama infeksi darah. Sistem ini memanfaatkan antarmuka pengguna yang melibatkan kuesioner atau input manual serta pengumpulan data otomatis untuk memfasilitasi konsultasi interaktif dengan dokter atau pengguna.
+
+MYCIN juga mencakup inference engine yang beroperasi dengan menggunakan algoritma reasoning seperti rule-based dan fuzzy logic. Basis pengetahuan MYCIN terdiri dari aturan-aturan yang terdapat dalam bentuk pengetahuan deklaratif, mencakup informasi terkait gejala, tes diagnostik, dan pengobatan untuk infeksi bakteri. Keseluruhan, MYCIN menggabungkan elemen-elemen ini untuk memberikan solusi cerdas dalam domain spesifik infeksi bakteri.
